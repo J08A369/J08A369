@@ -1,11 +1,12 @@
-# 💫 Hi 👋, I'm CodeJo8a
-**An aspiring Software Engineer | Tech Enthusiast**
-- 🔭 **I’m currently working on:**  C++ programming, Data Structures, and university lab projects
-- 🌱 **I’m currently learning:** Software development fundamentals, problem solving, and electronics concepts
-- 👯 **I’m looking to collaborate on:** Beginner-friendly software projects and open-source learning projects
-- 🤔 **I’m looking for help with:** Improving coding skills and understanding advanced programming concepts
-- 💬 **Ask me about:** C++, programming basics and electronics fundamentals
-- ⚡ **Fun fact: I love learning new tech, solving coding problems,creating creative designs and recharging with a good sleep.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=💫+Hi,+I'm+CodeJo8a;I+love+coding+and+designing" />
+</p>
+❤ About Me
+
+👨‍💻 Tech enthusiast who loves coding and creative design  
+💻 Interested in C++ programming, problem solving, and electronics  
+🌱 Always learning new technologies and improving my skills  
+🎨 I enjoy building things with code and creating creative designs and recharging with a good sleep. 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
